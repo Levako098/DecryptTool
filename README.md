@@ -27,7 +27,7 @@ A high-performance, multi-process brute-force tool designed to crack bcrypt hash
 
 ```bash
 pip install bcrypt
-
+```
 
 
 👤 Author / Автор
