@@ -30,9 +30,6 @@ pip install bcrypt
 ```
 
 
-👤 Author / Автор
-
-Levako
 
     Telegram: @kaliceo
 
